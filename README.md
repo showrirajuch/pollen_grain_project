@@ -1,44 +1,51 @@
-🌾 Pollen Grain Classification using Deep Learning & AI
+# 🌾 Pollen Grain Classification using Deep Learning & AI
 
-Thanks to SmartBridge for amazing Project on DeepLearning
+A deep learning project for accurate and lightweight classification of pollen grain images.
 
-📊 Dataset
-The dataset includes labeled images of different pollen species.
-Pollen Grain Image Classification
-Source-link: [ https://www.kaggle.com/datasets/andrewmvd/pollen-grain-image-classification ].
+---
 
+## 📊 Dataset
 
-🔍 Objective
-To identify and classify pollen grain types using image classification.
-Build an accurate and lightweight model suitable for deployment.
-Visualize predictions and evaluate performance with metrics like accuracy and confusion matrix.
+- **Source:** [Kaggle: Pollen Grain Image Classification](https://www.kaggle.com/datasets/andrewmvd/pollen-grain-image-classification)
+- Contains labeled images of various pollen species.
 
-📈 Results
-Accuracy: ~90%
-Confusion Matrix: Included in notebooks/pollen-grain.ipynb
-Real-time prediction support via UI
-flask website 
+---
 
-🧪 Technologies Used
+## 🔍 Objective
 
-Python
+- Identify and classify pollen grain types using deep learning.
+- Build a deployable, efficient model.
+- Visualize predictions and evaluate performance (accuracy, confusion matrix).
 
-TensorFlow / Keras
+---
 
-OpenCV / PIL
+## 📈 Results
 
-Scikit-learn
+- **Accuracy:** ~90%
+- **Confusion Matrix:** See [`notebooks/pollen-grain.ipynb`](notebooks/pollen-grain.ipynb)
+- Real-time prediction via Flask web UI.
 
-Pandas, NumPy
+---
 
-Flask 
+## 🧪 Technologies Used
 
-github
+- Python
+- TensorFlow / Keras
+- OpenCV / PIL
+- Scikit-learn
+- Pandas, NumPy
+- Flask
 
+---
 
-📜 License
-MIT License. See LICENSE file for details.
+## 📜 License
 
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+**Thanks to SmartBridge for supporting this deep learning project!**
 
 
 
