@@ -24,10 +24,15 @@ flask website
 Python
 
 TensorFlow / Keras
+
 OpenCV / PIL
+
 Scikit-learn
+
 Pandas, NumPy
+
 Flask 
+
 github
 
 
