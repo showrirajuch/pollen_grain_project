@@ -20,7 +20,9 @@ Real-time prediction support via UI
 flask website 
 
 🧪 Technologies Used
+
 Python
+
 TensorFlow / Keras
 OpenCV / PIL
 Scikit-learn
