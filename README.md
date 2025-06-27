@@ -45,7 +45,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Thanks to SmartBridge for supporting this deep learning project!**
+**Thanks to SmartBridge for this deep learning project on ai !**
 
 
 
