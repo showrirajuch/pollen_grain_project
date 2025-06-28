@@ -1,3 +1,5 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/OWNER/REPO)
+
 # 🌾 Pollen Grain Classification using Deep Learning & AI
 
 A deep learning project for accurate and lightweight classification of pollen grain images.
