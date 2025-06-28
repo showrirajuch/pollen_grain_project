@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/OWNER/REPO)
+![GitHub top language](https://img.shields.io/github/languages/top/showrirajuch/pollen-grain)
 
 # 🌾 Pollen Grain Classification using Deep Learning & AI
 
