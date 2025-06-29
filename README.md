@@ -25,38 +25,38 @@ A deep learning project for accurate and lightweight classification of pollen gr
 
 POLLEN_GRAIN/
 ├── data/                             
-# Dataset files (CSV, images, etc.)
+- Dataset files (CSV, images, etc.)
 │
 ├── flask/
 │   ├── static/                       
-# CSS, JS, and images for frontend
+- CSS, JS, and images for frontend
 │   ├── templates/                    
-# HTML templates
+- HTML templates
 │   │   ├── index.html                
-# Homepage for image upload
+- Homepage for image upload
 │   │   ├── prediction.html           
-# Page showing prediction results
+- Page showing prediction results
 │   │   └── logout.html               
-# Logout/session end page
+- Logout/session end page
 │   └── .ipynb_checkpoints/          
-# Jupyter auto-saves (can be ignored)
+- Jupyter auto-saves (can be ignored)
 │
 ├── uploads/                          
-# Stores uploaded images for prediction
+- Stores uploaded images for prediction
 │
 ├── app.py                            
-# Flask server entry point
+- Flask server entry point
 │
 ├── model.h5                          
-# Trained CNN model (Keras format)
+- Trained CNN model (Keras format)
 ├── cnn.hdf5                          
-# Older/alternative model version
+- Older/alternative model version
 │
 ├── pollen_grain_classification.ipynb 
-# Jupyter notebook for training/testing
+- Jupyter notebook for training/testing
 │
 └── requirements.txt                  
-# List of all required Python packages
+- List of all required Python packages
 
              
 ---
