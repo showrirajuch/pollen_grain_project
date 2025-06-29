@@ -24,26 +24,39 @@ A deep learning project for accurate and lightweight classification of pollen gr
 ## 🧠 Structure 
 
 POLLEN_GRAIN/
-├── data/                             # Dataset files (CSV, images, etc.)
+├── data/                             
+# Dataset files (CSV, images, etc.)
 │
 ├── flask/
-│   ├── static/                       # CSS, JS, and images for frontend
-│   ├── templates/                    # HTML templates
-│   │   ├── index.html                # Homepage for image upload
-│   │   ├── prediction.html           # Page showing prediction results
-│   │   └── logout.html               # Logout/session end page
-│   └── .ipynb_checkpoints/           # Jupyter auto-saves (can be ignored)
+│   ├── static/                       
+# CSS, JS, and images for frontend
+│   ├── templates/                    
+# HTML templates
+│   │   ├── index.html                
+# Homepage for image upload
+│   │   ├── prediction.html           
+# Page showing prediction results
+│   │   └── logout.html               
+# Logout/session end page
+│   └── .ipynb_checkpoints/          
+# Jupyter auto-saves (can be ignored)
 │
-├── uploads/                          # Stores uploaded images for prediction
+├── uploads/                          
+# Stores uploaded images for prediction
 │
-├── app.py                            # Flask server entry point
+├── app.py                            
+# Flask server entry point
 │
-├── model.h5                          # Trained CNN model (Keras format)
-├── cnn.hdf5                          # Older/alternative model version
+├── model.h5                          
+# Trained CNN model (Keras format)
+├── cnn.hdf5                          
+# Older/alternative model version
 │
-├── pollen_grain_classification.ipynb # Jupyter notebook for training/testing
+├── pollen_grain_classification.ipynb 
+# Jupyter notebook for training/testing
 │
-└── requirements.txt                  # List of all required Python packages
+└── requirements.txt                  
+# List of all required Python packages
 
              
 ---
