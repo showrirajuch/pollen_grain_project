@@ -21,6 +21,33 @@ A deep learning project for accurate and lightweight classification of pollen gr
 
 ---
 
+## 🧠 Structure 
+
+POLLEN_GRAIN/
+│
+├── data/                         # Dataset files (CSV, Images, etc.)
+│
+├── flask/                       
+│   ├── static/                  # CSS, JS, images used in templates
+│   ├── templates/               # HTML Templates
+│   │   ├── index.html
+│   │   ├── prediction.html
+│   │   └── logout.html
+│   └── .ipynb_checkpoints/      # Jupyter internal files (can be ignored)
+│
+├── uploads/                     # Uploaded images for prediction
+│
+├── app.py                       # Flask application entry point
+│
+├── model.h5                     # Trained deep learning model (Keras)
+├── cnn.hdf5                     # (Optional) Older/saved model checkpoint
+│
+├── pollen_grain_classification.ipynb   # Jupyter notebook (model training & analysis)
+│
+└── requirements.txt             # (Optional) All required libraries (Flask, Keras, etc.)
+
+---
+
 ## 🔍 Objective
 
 - Identify and classify pollen grain types using deep learning.
