@@ -22,7 +22,7 @@ A deep learning project for accurate and lightweight classification of pollen gr
 ---
 
 ## 🧠 Structure 
-
+```
 POLLEN_GRAIN/
 ├── data/                             # Dataset files (CSV, images, etc.)
 │
@@ -41,6 +41,7 @@ POLLEN_GRAIN/
 ├── cnn.hdf5                          # Older/alternative model checkpoint
 ├── pollen_grain_classification.ipynb # Jupyter notebook for training/testing
 └── requirements.txt                  # Required Python packages
+```
 
              
 ---
